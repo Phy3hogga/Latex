@@ -24,7 +24,7 @@ Contributions towards this code will only be accepted under the following condit
 * Providing new features that do not break current implementations (must be backwards compatible).
 
 ## References
-CSL files originate from the official CSL repository located here https://github.com/citation-style-language/ created by https://citationstyles.org/.
+The CSL files originate from the official CSL repository located [here](https://github.com/citation-style-language/) created by https://citationstyles.org/.
 
 ## Authors
 * **Alex Hogg** - *Initial work* - [Phy3hogga](https://github.com/Phy3hogga)
